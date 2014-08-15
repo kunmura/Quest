@@ -8,9 +8,14 @@ public class ButtonController : MonoBehaviour {
 		Application.LoadLevel ("MyPage");
 	}
 
-	public void onClickQuestGate(){
-		Debug.Log("QuestGate");
+	public void onClickWorldMap(){
+		Debug.Log("WorldMap");
 		Application.LoadLevel ("WorldMap");
+	}
+
+	public void onClickErea1(){
+		Debug.Log("Erea1");
+		Application.LoadLevel ("EreaMap");
 	}
 
 	public void onClickShop(){
