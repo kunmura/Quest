@@ -35,6 +35,11 @@
 -define:ENABLE_PROFILER
 -define:UNITY_EDITOR
 -define:UNITY_EDITOR_OSX
+'Assets/EasyMaskingTransition/Demo/Scripts/StartButton.cs'
+'Assets/EasyMaskingTransition/Demo/Scripts/TransitionCloseComplete.cs'
+'Assets/EasyMaskingTransition/Demo/Scripts/TransitionOpenComplete.cs'
+'Assets/EasyMaskingTransition/Demo/Scripts/ViewerDemo.cs'
+'Assets/EasyMaskingTransition/Scripts/EMTransition.cs'
 'Assets/NGUI/Examples/Scripts/InventorySystem/Game/EquipItems.cs'
 'Assets/NGUI/Examples/Scripts/InventorySystem/Game/EquipRandomItem.cs'
 'Assets/NGUI/Examples/Scripts/InventorySystem/Game/UICursor.cs'

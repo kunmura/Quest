@@ -46,6 +46,8 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\EasyMaskingTransition\Scripts\Editor\EMTransitionEditor.cs" />
+     <Compile Include="Assets\EasyMaskingTransition\Scripts\Editor\TexturesPostprocessor.cs" />
      <Compile Include="Assets\NGUI\Examples\Scripts\InventorySystem\Editor\InvDatabaseInspector.cs" />
      <Compile Include="Assets\NGUI\Examples\Scripts\InventorySystem\Editor\InvFindItem.cs" />
      <Compile Include="Assets\NGUI\Scripts\Editor\ActiveAnimationEditor.cs" />
@@ -135,9 +137,12 @@
      <None Include="Assets\NGUI\Examples\Models\Orc\Orc Skin.shader" />
      <None Include="Assets\NGUI\Examples\Atlases\Wooden\Arimo20.txt" />
      <None Include="Assets\NGUI\Examples\Atlases\Wooden\Arimo14.txt" />
+     <None Include="Assets\EasyMaskingTransition\Shaders\UnlitAlphaTestImage.shader" />
+     <None Include="Assets\EasyMaskingTransition\Shaders\UnlitAlphaTestColor.shader" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Text 1.shader" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored 2.shader" />
      <None Include="Assets\NGUI\Examples\Shaders\Unlit - Masked Colored.shader" />
+     <None Include="Assets\EasyMaskingTransition\readme.txt" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Premultiplied Colored 3.shader" />
      <None Include="Assets\NGUI\Examples\Atlases\Wooden\Arimo18.txt" />
      <None Include="Assets\NGUI\Examples\Atlases\SciFi\SciFi Font - Header.txt" />

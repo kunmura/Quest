@@ -38,6 +38,8 @@
 -define:UNITY_EDITOR
 -define:UNITY_EDITOR_OSX
 -define:ENABLE_DUCK_TYPING
+'Assets/EasyMaskingTransition/Scripts/Editor/EMTransitionEditor.cs'
+'Assets/EasyMaskingTransition/Scripts/Editor/TexturesPostprocessor.cs'
 'Assets/NGUI/Examples/Scripts/InventorySystem/Editor/InvDatabaseInspector.cs'
 'Assets/NGUI/Examples/Scripts/InventorySystem/Editor/InvFindItem.cs'
 'Assets/NGUI/Scripts/Editor/ActiveAnimationEditor.cs'

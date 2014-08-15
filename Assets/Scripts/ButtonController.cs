@@ -3,8 +3,14 @@ using System.Collections;
 
 public class ButtonController : MonoBehaviour {
 
+	public void onClickMyPage(){
+		Debug.Log("MyPage");
+		Application.LoadLevel ("MyPage");
+	}
+
 	public void onClickQuestGate(){
 		Debug.Log("QuestGate");
+		Application.LoadLevel ("WorldMap");
 	}
 
 	public void onClickShop(){

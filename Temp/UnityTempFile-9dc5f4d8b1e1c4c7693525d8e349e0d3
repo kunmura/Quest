@@ -31,6 +31,11 @@
 -define:ENABLE_AUDIO
 -define:ENABLE_NAVMESH_CARVING
 -define:ENABLE_SINGLE_INSTANCE_BUILD_SETTING
+'Assets/EasyMaskingTransition/Demo/Scripts/StartButton.cs'
+'Assets/EasyMaskingTransition/Demo/Scripts/TransitionCloseComplete.cs'
+'Assets/EasyMaskingTransition/Demo/Scripts/TransitionOpenComplete.cs'
+'Assets/EasyMaskingTransition/Demo/Scripts/ViewerDemo.cs'
+'Assets/EasyMaskingTransition/Scripts/EMTransition.cs'
 'Assets/NGUI/Examples/Scripts/InventorySystem/Game/EquipItems.cs'
 'Assets/NGUI/Examples/Scripts/InventorySystem/Game/EquipRandomItem.cs'
 'Assets/NGUI/Examples/Scripts/InventorySystem/Game/UICursor.cs'
