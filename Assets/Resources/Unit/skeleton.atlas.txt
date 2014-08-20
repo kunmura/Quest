@@ -1,0 +1,75 @@
+
+skeleton.png
+size: 1005,997
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 594, 18
+  size: 223, 335
+  orig: 223, 335
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 134
+  size: 590, 863
+  orig: 590, 863
+  offset: 0, 0
+  index: -1
+left_hand
+  rotate: false
+  xy: 865, 609
+  size: 140, 172
+  orig: 140, 172
+  offset: 0, 0
+  index: -1
+left_shoulder
+  rotate: true
+  xy: 264, 24
+  size: 108, 203
+  orig: 108, 203
+  offset: 0, 0
+  index: -1
+right_hand
+  rotate: true
+  xy: 865, 783
+  size: 214, 105
+  orig: 214, 105
+  offset: 0, 0
+  index: -1
+right_shoulder
+  rotate: true
+  xy: 2, 2
+  size: 130, 260
+  orig: 130, 260
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 594, 243
+  size: 269, 754
+  orig: 269, 754
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 825,322
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+leg_1
+  rotate: false
+  xy: 2, 2
+  size: 549, 320
+  orig: 549, 320
+  offset: 0, 0
+  index: -1
+leg_2
+  rotate: false
+  xy: 553, 76
+  size: 272, 246
+  orig: 272, 246
+  offset: 0, 0
+  index: -1
