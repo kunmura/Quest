@@ -69,6 +69,7 @@
      <None Include="Assets\NGUI\Examples\Models\Orc\Orc Skin.shader" />
      <None Include="Assets\NGUI\Examples\Atlases\Wooden\Arimo20.txt" />
      <None Include="Assets\NGUI\Examples\Atlases\Wooden\Arimo14.txt" />
+     <None Include="Assets\Resources\Unit\ookami\skeleton.json.txt" />
      <None Include="Assets\EasyMaskingTransition\Shaders\UnlitAlphaTestImage.shader" />
      <None Include="Assets\EasyMaskingTransition\Shaders\UnlitAlphaTestColor.shader" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Text 1.shader" />
@@ -87,7 +88,7 @@
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Premultiplied Colored 2.shader" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Text 3.shader" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Packed 2.shader" />
-     <None Include="Assets\Resources\Unit\skeleton.atlas.txt" />
+     <None Include="Assets\Resources\Unit\ekidona\skeleton.atlas.txt" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Packed 1.shader" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Premultiplied Colored 1.shader" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Premultiplied Colored.shader" />
@@ -99,7 +100,7 @@
      <None Include="Assets\spine-unity\Assets\spine-unity\Shaders\Skeleton.shader" />
      <None Include="Assets\spine-unity\Assets\Examples\Spine\Goblins\goblins-ffd.atlas.txt" />
      <None Include="Assets\NGUI\Examples\Shaders\Unlit - Additive Colored.shader" />
-     <None Include="Assets\Resources\Unit\skeleton.json.txt" />
+     <None Include="Assets\Resources\Unit\ekidona\skeleton.json.txt" />
      <None Include="Assets\NGUI\Examples\Atlases\Refractive\Refractive Font - Header.txt" />
      <None Include="Assets\NGUI\Examples\Shaders\Refractive.shader" />
      <None Include="Assets\NGUI\Examples\Shaders\Unlit - Depth.shader" />
@@ -107,6 +108,7 @@
      <None Include="Assets\NGUI\Examples\Models\Orc Armor\Orc Armor.shader" />
      <None Include="Assets\spine-unity\Assets\spine-unity\Shaders\SkeletonLit.shader" />
      <None Include="Assets\NGUI\Examples\Resources\Localization.txt" />
+     <None Include="Assets\Resources\Unit\ookami\skeleton.atlas.txt" />
  <Reference Include="UnityEditor.Graphs">
  <HintPath>/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.Graphs.dll</HintPath>
  </Reference>
